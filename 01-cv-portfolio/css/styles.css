@@ -264,6 +264,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 @media (max-width: 767px) {
 	[data-togglr="colum-sm"]{
+		top: 42%;
 		width: 33%;
 		display: inline-block;
 	}
